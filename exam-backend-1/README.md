@@ -1,7 +1,7 @@
 # วิธีการส่งข้อสอบ
 
     1. อัพ Code ขึ้น GitHub ของตัวเอง
-    2. ส่ง Link GitHub มาทาง Email: suphakon.owldayhouse@gmail.com
+    2. ส่ง Link GitHub มาทาง Email: suphakon@owldayhouse.com
 
 # รายละเอียดข้อสอบ
 
